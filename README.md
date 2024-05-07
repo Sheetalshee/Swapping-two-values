@@ -18,6 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~
+a=input()
+b=input()
+t=a
+a=b
+b=t
+print("Swapped values are:",a,b)
+~~~
+
+## OUTPUT:
+![image](https://github.com/Sheetalshee/Swapping-two-values/assets/144979107/a3157993-e142-4e8c-a683-730e8b040d4e)
+
+
 
 
 
